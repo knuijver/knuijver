@@ -1,16 +1,23 @@
 ### 👋 Hi there! I'm Ruben
 
-A passionate **sr. Solution Architect**, **Technical Writer**, and **Programmer** driven by innovation. I love building robust solutions and sharing knowledge through clear documentation.
+I'm a **Senior Solution Architect**, **Technical Writer**, and **Programmer** with a passion for building innovative, robust, and scalable systems. I thrive on solving complex challenges and sharing knowledge through clear, comprehensive documentation.
 
-![Ruben's GitHub Profile Header](images/github-header-image.png)
-
-🌟 **Currently Showcasing:** I've developed most of my project to chare thoughts and because I just enjoy writing and trying new things.
+<p align="center">
+  <img src="images/github-header-image.png" alt="Ruben's GitHub Profile Header"/>
+</p>
 
 ---
 
+🤔 **About Me:**  
+My journey in technology is fueled by a desire to solve complex problems and contribute to projects that push boundaries. Whether it's architecting scalable systems, crafting insightful documentation, or diving deep into code, I approach each task with enthusiasm and a commitment to excellence.
+
+🌟 **Currently Showcasing:**  
+I enjoy building and sharing projects that reflect my learning journey and experiments with new technologies. You'll find a mix of practical applications and explorations of innovative concepts.
+
+
 ## 🚀 My Toolkit:
 
-I'm proficient in a wide range of technologies, including:
+Here are some of the technologies I work with regularly:
 
 <p align="left">
   <a href="https://reactjs.org/" target="_blank">
@@ -54,53 +61,41 @@ I'm proficient in a wide range of technologies, including:
   </a>
 </p>
 
----
-
 ## 🌟 What I'm Up To:
 
-- **Currently Contributing:** Actively working on exciting projects at BCS HR.
-- **Lifelong Learner:** Continuously exploring new technologies, with a current focus on [mention specific areas if you have them, e.g., advanced AI techniques, distributed systems].
-- **Open to Collaboration:** Eager to connect on projects related to **Cloud Computing**, **Artificial Intelligence (AI)**, and **Cryptography**. Let's build something amazing together!
-- **Let's Connect:** Feel free to reach out for a chat about **programming**, **science**, or any of the technologies I'm passionate about. I'm always open to new ideas and discussions!
+- 🔭 **Currently working on:** Architecting and developing cloud-native solutions at BCS HR, primarily using **.NET, C#, and Azure**.
+- 🌱 **Lifelong Learner:** Continuously exploring new technologies, with a current focus on advanced AI techniques, distributed systems.
+- 🤝 **Open to Collaboration:** Eager to connect on projects related to **Cloud Architecture**, **AI/ML Engineering**, and **Cryptography**. Let's build something amazing together!
+- 💬 **Ask me anything about:** **C#/.NET**, **Go**, **System Design**, or **Technical Writing**. I'm always happy to share what I know!
 
----
+
+## 📫 Let's Connect
+
 <!-- Social Media Links -->
-<!--
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/knuijver)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/primecoder)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/knuijver)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/@prime-coder)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://primecoder.com)  
--->
 <div align="center">
   <a href="https://github.com/knuijver" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="40" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="30" />
   </a>
   <a href="https://twitter.com/primecoder" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="40" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="30" />
   </a>
   <a href="https://codesandbox.io/u/knuijver" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="codesandbox" height="40" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="codesandbox" height="30" />
   </a>
   <a href="https://www.youtube.com/channel/@prime-coder" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="YouTube" height="40" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="YouTube" height="30" />
   </a>
   <a href="https://primecoder.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg" alt="website" height="40" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg" alt="website" height="30" />
   </a>
 </div>
 
----
+## 📊 My GitHub Stats
 
 <!-- GitHub Stats -->
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knuijver&hide_title=true&layout=compact&card_width=320&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=knuijver&show_icons=true)  
-![GitHub streak stats](https://streak-stats.demolab.com/?user=knuijver)  
--->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knuijver&hide_title=true&layout=compact&card_width=320&langs_count=10" alt="Top Langs" />
-  <img src="https://github-readme-stats.vercel.app/api?username=knuijver&show_icons=true&hide_border=true&card_width=320" alt="GitHub stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=knuijver&hide_title=true&layout=compact&card_width=320&langs_count=10" alt="Top Langs" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=knuijver&show_icons=true&hide_border=true&card_width=320" alt="GitHub stats" />
   <img src="https://streak-stats.demolab.com/?user=knuijver" alt="GitHub streak stats" />
 </div>
 
