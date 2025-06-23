@@ -64,14 +64,42 @@ I'm proficient in a wide range of technologies, including:
 - **Let's Connect:** Feel free to reach out for a chat about **programming**, **science**, or any of the technologies I'm passionate about. I'm always open to new ideas and discussions!
 
 ---
-
+<!-- Social Media Links -->
+<!--
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/knuijver)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/primecoder)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/knuijver)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/@prime-coder)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://primecoder.com)  
+-->
+<div align="center">
+  <a href="https://github.com/knuijver" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="40" />
+  </a>
+  <a href="https://twitter.com/primecoder" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="40" />
+  </a>
+  <a href="https://codesandbox.io/u/knuijver" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.io/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="codesandbox" height="40" />
+  </a>
+  <a href="https://www.youtube.com/channel/@prime-coder" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="YouTube" height="40" />
+  </a>
+  <a href="https://primecoder.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.io/npm/simple-icons@3.0.1/icons/icloud.svg" alt="website" height="40" />
+  </a>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knuijver)](https://github.com/anuraghazra/github-readme-stats)
+---
 
+<!-- GitHub Stats -->
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knuijver&hide_title=true&layout=compact&card_width=320&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=knuijver&show_icons=true)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=knuijver)  
+-->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knuijver&hide_title=true&layout=compact&card_width=320&langs_count=10" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=knuijver&show_icons=true&hide_border=true&card_width=320" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com/?user=knuijver" alt="GitHub streak stats" />
+</div>
+
 <!--
 **knuijver/knuijver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
