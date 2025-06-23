@@ -1,6 +1,6 @@
 ### 👋 Hi there! I'm Ruben
 
-A passionate **Software Architect**, **Technical Writer**, and **Programmer** driven by innovation. I love building robust solutions and sharing knowledge through clear documentation.
+A passionate **sr. Solution Architect**, **Technical Writer**, and **Programmer** driven by innovation. I love building robust solutions and sharing knowledge through clear documentation.
 
 ![Ruben's GitHub Profile Header](images/github-header-image.png)
 
