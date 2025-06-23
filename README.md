@@ -66,7 +66,11 @@ I'm proficient in a wide range of technologies, including:
 ---
 <!-- Social Media Links -->
 <!--
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/knuijver)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/primecoder)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/knuijver)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/@prime-coder)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://primecoder.com)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/knuijver)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/primecoder)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/knuijver)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/@prime-coder)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://primecoder.com)  
 -->
 <div align="center">
   <a href="https://github.com/knuijver" target="_blank" rel="noreferrer">
@@ -76,13 +80,13 @@ I'm proficient in a wide range of technologies, including:
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="40" />
   </a>
   <a href="https://codesandbox.io/u/knuijver" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.io/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="codesandbox" height="40" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="codesandbox" height="40" />
   </a>
   <a href="https://www.youtube.com/channel/@prime-coder" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="YouTube" height="40" />
   </a>
   <a href="https://primecoder.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.io/npm/simple-icons@3.0.1/icons/icloud.svg" alt="website" height="40" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg" alt="website" height="40" />
   </a>
 </div>
 
